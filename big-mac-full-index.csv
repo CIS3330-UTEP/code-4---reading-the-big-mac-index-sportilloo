@@ -1,4 +1,4 @@
-date,iso_a3,currency_code,name,local_price,dollar_ex,dollar_price,USD_raw,EUR_raw,GBP_raw,JPY_raw,CNY_raw,GDP_bigmac,adj_price,USD_adjusted,EUR_adjusted,GBP_adjusted,JPY_adjusted,CNY_adjusted
+date,iso_a3,currency_code,country_name,local_price,dollar_ex,dollar_price,USD_raw,EUR_raw,GBP_raw,JPY_raw,CNY_raw,GDP_bigmac,adj_price,USD_adjusted,EUR_adjusted,GBP_adjusted,JPY_adjusted,CNY_adjusted
 2000-04-01,ARG,ARS,Argentina,2.5,1,2.5,0.11607,0.05007,-0.16722,-0.09864,1.09091,7803.328512,1.9226515251854,0.39117,,-0.06626,0.10096,0.97153
 2000-04-01,AUS,AUD,Australia,2.59,1.68,1.54166666666667,-0.31176,-0.35246,-0.48645,-0.44416,0.28939,29144.876972973,2.3015499940969,-0.28335,,-0.51898,-0.43285,0.01563
 2000-04-01,BRA,BRL,Brazil,2.95,1.79,1.64804469273743,-0.26427,-0.30778,-0.45102,-0.40581,0.37836,4822.73898305085,1.86973405244261,-0.05696,,-0.36704,-0.25369,0.33645
